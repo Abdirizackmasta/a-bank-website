@@ -836,7 +836,7 @@ h4 {
     display: block;
     font-weight: 800;
   }
-  .dots__dot {
+  .dots {
     margin-top: 20px;
   }
   .modal__header {
@@ -857,10 +857,7 @@ h4 {
     border: 1px solid #ddd;
     border-radius: 0.5rem;
   }
-  ..btn--close-modal {
+  .btn--close-modal {
     font-size: 2rem;
   }
-  .dots {
-  display: none;
-}
 }

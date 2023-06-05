@@ -844,7 +844,7 @@ h4 {
   }
   .modal {
     max-width: 30rem;
-    padding: 3rem 3rem;
+    padding: 3rem 2rem;
   }
   .modal__form label {
     font-size: 1.2rem;

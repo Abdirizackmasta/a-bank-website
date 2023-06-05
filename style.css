@@ -853,11 +853,14 @@ h4 {
 
   .modal__form input {
     font-size: 1.2rem;
-    padding: 0.7rem 0.9rem;
+    padding: 0.7rem 0.6rem;
     border: 1px solid #ddd;
     border-radius: 0.5rem;
   }
   ..btn--close-modal {
     font-size: 2rem;
   }
+  .dots {
+  display: none;
+}
 }

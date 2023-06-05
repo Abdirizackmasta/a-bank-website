@@ -837,7 +837,7 @@ h4 {
     font-weight: 800;
   }
   .dots {
-    margin-top: 20px;
+    display: none;
   }
   .modal__header {
     font-size: 2rem;
